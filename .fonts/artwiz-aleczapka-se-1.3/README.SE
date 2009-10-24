@@ -1,0 +1,41 @@
+artwiz-aleczapka-se
+
+This is just a small modification of the fonts in 
+artwiz-aleczapka fontpackage to support swedish characters.
+
+Made by vendis@snaily.net
+
+Fonts included in package (and should look ok):
+snap.se
+edges.se
+cure.se
+drift.se
+fkp.se
+gelly.se
+lime.se
+mints-mild.se
+mints-strong.se
+nu.se
+smoothansi.se
+
+I also converted anorexia, aqui, glisp, glisp-bold and kates, 
+but the A and O was a bit big to look good, but they are there anyway =)
+The original design for these fonts made it hard 
+to get ед and ж to look nice..
+
+Changelog:
+----------
+2003-11-17
+Rewrote parts of the readme.
+Maybe I should finish the work
+before releasing? =)
+
+2003-11-16
+Repacked due to missing fonts.dir
+and fonts.alias (/me slaps myself)
+
+2003-11-16
+Made the package
+
+2003-10-18
+Fonts done
